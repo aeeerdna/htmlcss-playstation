@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#returnal {
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+    background-position: top;
+}
+
+#returnal-content {
+    margin-top: 30rem;
+}
