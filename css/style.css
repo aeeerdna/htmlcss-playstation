@@ -2,12 +2,36 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/* ANIMATION */
+#ps5 .col-md a:hover {
+    border-bottom: 1px solid #177bd0;
+}
+
+/* END ANIMATION */
+
+
+/* CONTENT */
 #returnal {
     background-image: url(../img/jumbo-bg.png);
     background-size: cover;
     background-position: top;
+    margin-top: 104px;
 }
 
 #returnal-content {
     margin-top: 30rem;
+}
+
+#it-takes-two {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: top;
+}
+
+#it-takes-two-content {
+    margin-top: 5rem;
+}
+
+#new-release {
+    background-color: #1f1f1f;
 }
